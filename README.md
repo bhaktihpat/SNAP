@@ -39,21 +39,21 @@ The model correlations concluded that the most important indictor of receiving S
 # List of files:
 1. Jupyter Files:
     1. [1_EDA](1_EDA.ipynb)
-    1. [2_Correlations](https://github.com/bhaktihpat/SNAP/blob/main/2_Correlations.ipynb)
-    1. [3_Model](http://localhost:8888/doc/tree/3_Model.ipynb)
-    1. [4_Predictions](http://localhost:8888/doc/tree/4_Predictions.ipynb)
-    1. [5_Conclusions]()    
+    1. [2_Correlations](2_Correlations.ipynb)
+    1. [3_Model](3_Model.ipynb)
+    1. [4_Predictions](4_Predictions.ipynb)
+    1. [5_Conclusions](5_Conclusions.ipynb)    
 1. Folders: 
-    1. [Reports (Incl Data Dictionaries and Technical Documents)](http://localhost:8888/lab/tree/reports)
-    1. [GIS Analysis Files](http://localhost:8888/doc/tree/QGISBGIS.zip)
-    1. [Data](http://localhost:8888/lab/tree/SNAP_Data)
-    1. [Python Code](http://localhost:8888/lab/tree/python_code)
-    1. [Images](http://localhost:8888/lab/tree/images)
-1. [Final Model](http://localhost:8888/doc/tree/final_model.sav)
+    1. [Reports (Incl Data Dictionaries and Technical Documents)](https://github.com/bhaktihpat/SNAP/tree/main/reports)
+    1. [GIS Analysis Files](https://github.com/bhaktihpat/SNAP/blob/main/QGISBGIS.zip)
+    1. [Data](https://github.com/bhaktihpat/SNAP/tree/main/SNAP_Data)
+    1. [Python Code](https://github.com/bhaktihpat/SNAP/tree/main/python_code)
+    1. [Images](https://github.com/bhaktihpat/SNAP/tree/main/images)
+1. [Final Model](https://github.com/bhaktihpat/SNAP/blob/main/final_model.sav)
 
 # Resources
 - [SNAP Quality Control Datasets](https://www.fns.usda.gov/resource/snap-quality-control-data)
 - [Project mentor GitHub](https://github.com/decca10/Help-in-a-SNAP)
 
 # Author
-Bhakti Patel
+Bhakti Patelgit 
