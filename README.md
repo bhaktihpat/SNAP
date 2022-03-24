@@ -38,11 +38,11 @@ The model correlations concluded that the most important indictor of receiving S
 
 # List of files:
 1. Jupyter Files:
-    1. [1_EDA](http://localhost:8888/doc/tree/1_EDA.ipynb)
-    1. [2_Correlations](http://localhost:8888/doc/tree/2_Correlations.ipynb)
+    1. [1_EDA](1_EDA.ipynb)
+    1. [2_Correlations](https://github.com/bhaktihpat/SNAP/blob/main/2_Correlations.ipynb)
     1. [3_Model](http://localhost:8888/doc/tree/3_Model.ipynb)
     1. [4_Predictions](http://localhost:8888/doc/tree/4_Predictions.ipynb)
-    1. [5_Insights]()    
+    1. [5_Conclusions]()    
 1. Folders: 
     1. [Reports (Incl Data Dictionaries and Technical Documents)](http://localhost:8888/lab/tree/reports)
     1. [GIS Analysis Files](http://localhost:8888/doc/tree/QGISBGIS.zip)
